@@ -1,0 +1,10 @@
+[
+    {
+        "role":"Python developer",
+        "organisation":"Esukhia",
+        "startDate":"Jan,2023",
+        "endDate":"April,2023",
+        "experiences":["Developed a python package(interText merger)",
+                        "Developing a python package to automate transforming data into multiple format"]
+    }
+]

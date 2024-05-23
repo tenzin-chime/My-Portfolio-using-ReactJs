@@ -1,0 +1,37 @@
+[
+    {
+        "title":"Food Receipe App",
+        "description":"This is a project made to search the recipe based on the food name.",
+        "skills":["Html","CSS","JavaScript"],
+        "demo": "https://searchdishrecipe.netlify.app",
+        "source":"https://github.com/tenzin-chime/Food-Recipe-App"
+    },
+    {
+        "title":"QR Code Generator",
+        "description":"This is a project that will generate QR code based on the given URL in the input.",
+        "skills":["Html","Tailwind CSS","JavaScript"],
+        "demo": "https://tenzinqrcode.netlify.app",
+        "source":"https://github.com/tenzin-chime/QR-Code-Generator"
+    },
+    {
+        "title":"Ecommerce",
+        "description":"This is an Ecommerce application that has advanced filtering.",
+        "skills":["CSS","JavaScript","ReactJs"],
+        "demo": "https://ecommercefilteringsite.netlify.app",
+        "source":"https://github.com/tenzin-chime/ECommerce-advanced-filtering"
+    },
+    {
+        "title":"Blog with Database App",
+        "description":"This is a project that we can write daily journal and can be able to save it to the database.",
+        "skills":["ExpressJs","NodeJs","MongoDB"],
+        "demo": "https://www.example.com",
+        "source":"https://github.com/tenzin-chime/Blog-with-Database-App"
+    },
+    {
+        "title":"Live chat react App",
+        "description":"It is a live chat react application that multiple user can chat only those who have sign up this application.",
+        "skills":["Javascript","React","ExpressJs","NodeJs","MongoDB"],
+        "demo": "https://www.example.com",
+        "source":"https://github.com/tenzin-chime/Live-Chat-React-App"
+    }
+]
